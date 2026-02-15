@@ -43,7 +43,7 @@ const AboutSection = () => {
             className="space-y-5 text-muted-foreground leading-relaxed"
           >
             <p>
-              Sou Tecnólogo em Gestão de Sistemas de Informação pela UNIP e Pós-graduado em Gestão de Tecnologia da Informação pela Faculdade Ideal (FACI). Também possuo formação técnica pelo SENAI/PA como Eletricista Industrial e especialização em Análise de Dados.
+              Sou Tecnólogo em Gestão de Sistemas de Informação pela UNIP e Pós-graduado em Gestão de Tecnologia da Informação pela Faculdade Ideal (FACI). Também possuo formação técnica pelo SENAI/PA como Eletricista Industrial, especialização em Análise de Dados e Analista de Dados pela Comunidade DS.
             </p>
             <p>
               Ao longo da minha trajetória, atuei por mais de 8 anos no setor industrial, passando por logística na JBS, consultoria pelo Sebrae/PA e atualmente atuando na área de FP&A como Analista de Controladoria, desenvolvendo soluções estratégicas em BI para o setor de incorporação imobiliária.
